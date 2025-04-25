@@ -1,3 +1,4 @@
+"homepage": "https://akshat33535.github.io/to-do-list-react",
 {
   "name": "to-do-list",
   "version": "0.1.0",
@@ -19,3 +20,5 @@
     "eject": "react-scripts eject"
   }
 }
+
+
